@@ -1,0 +1,8 @@
+{
+    "BOOT_MODE" : "DEFAULT_BOOT",
+    "GPS" : "False",
+    "MESH_ID" : "OPENMESH",
+    "NODE_ID" : "0x01",
+    "MEGASENSE_CONNECT" : "True",
+    "MEGASENSE_ADDR" : ""
+}
